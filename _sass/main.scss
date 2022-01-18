@@ -532,7 +532,7 @@ background: $glitch-bg-color;
   justify-content: center;
 
   div {
-    padding: 0.2rem;
+    padding: 0.3rem;
     transition: opacity 0.5s;
   }
 
@@ -605,7 +605,6 @@ background: $glitch-bg-color;
     margin-left: -0.0675rem;
     position: absolute;
     width: 0.125rem;
-    z-index: -1;
   }
 
   .timeline li {
@@ -651,7 +650,7 @@ background: $glitch-bg-color;
   }
 
   .flag {
-    background: $bg-color;
+    background: #404346;
     border-radius: 0.5rem;
     font-weight: $font-weight-strong;
     padding: 0.25rem 0.5rem;
@@ -663,7 +662,7 @@ background: $glitch-bg-color;
 
     span:after {
       content: "\226B";
-      color: $primary-color;
+      color: #404346;
       position: absolute;
       opacity: 0;
       right: -1rem;
@@ -696,7 +695,7 @@ background: $glitch-bg-color;
   }
 
   .desc {
-    background: $bg-color;
+    background: #29323b;
     border-radius: 1rem;
     margin: 1em 0 0 0;
     padding: 0.75em;

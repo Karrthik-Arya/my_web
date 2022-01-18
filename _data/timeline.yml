@@ -17,45 +17,30 @@
 #     - tag: Rails
 #   timeline-side: right
 
-- title: airbnb
-  title-url: https://example.com/
-  date: Sep 2019 - Present
-  subtitle: Fullstack Developer
-  tags:
-    - tag: React
-    - tag: Javascript
-    - tag: Ruby
-    - tag: Rails
+- title: Indian Institue of Technology, Bombay
+  title-url: https://www.iitb.ac.in/
+  date: Nov 2020 - Present
+  subtitle: 2nd Year Undergrad in the department of Electrical Engineering
   timeline-side: right
-
-- title: Google
-  title-url: https://example.com/
-  date: Mar 2019 - Sep 2019
-  subtitle: Software Engineer as Intern
   tags:
-    - tag: Flutter
-    - tag: Dart
-    - tag: Keycloak
-  timeline-side: right
+    - tag: Minor in CS
 
-- title: Super University
-  title-url: https://example.com/
-  date: 2017 - 2019
-  subtitle: M.Sc. Computer Science
+- title: Web and Coding Club
+  title-url: https://www.wncc-iitb.org
+  date: Jun 2021 - Present
+  subtitle:  Convener <br> Coordinated events for one of the largest coding clubs in India aimed at promoting coding culture in the institute
   timeline-side: left
 
-- title: Facebook
+- title: Alacrity Professionals 
   title-url: https://example.com/
-  date: Sep 2017 - Mar 2019
-  subtitle: Front-End Developer as Intern
-  tags:
-    - tag: React
-    - tag: Node
-    - tag: Javascript
+  date: Dec 2021
+  subtitle: Python Developer <br> Built a program to calculate reserve values for various types of insurance policies in different scenarios using the mode
+  tags: 
+    - tag: Python
   timeline-side: right
 
-- title: Super University
-  title-url: https://example.com/
-  date: 2014 - 2017
-  subtitle: B.A. Computer Science
+- title: Mayoor School, Ajmer
+  title-url: Middle School
+  date: Mar 2006 - Mar 2018
+  subtitle: Middle School
   timeline-side: left
